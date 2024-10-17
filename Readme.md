@@ -6,4 +6,7 @@ Esto es un readme para aprender a usar git
 
 ** negrita **
 
+quiero escribir un comando
 ``comando``
+
+espero no se salte la linea
