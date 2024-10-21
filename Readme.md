@@ -14,3 +14,5 @@ espero no se salte la linea
 Vamos a poner imagen:
 
 ![Descripcion de iamgen](linkDeImagen)
+
+texto interior *mas texto*
